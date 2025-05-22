@@ -13,3 +13,7 @@ The analysis focused on customer behavior, popular cuisines, peak order times, a
 - Delivery Partners with the Highest Delay Beyond Expected Delivery Time.
 - City wise orders.
 
+- dashboard interaction <a href="https://github.com/Preethesh29/Swiggy_Data_Analysis/blob/main/Screenshot%202025-05-22%20211535.png
+">view Dashboard</a>
+- Data Set <a href="https://github.com/Preethesh29/Swiggy_Data_Analysis/tree/main/Data%20Set">get Data set</a>
+
