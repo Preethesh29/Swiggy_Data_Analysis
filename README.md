@@ -4,10 +4,10 @@ The analysis focused on customer behavior, popular cuisines, peak order times, a
 
 ##Agenda of this project:
 
-Total Revenue by Restaurants.
-Top Five Dishes by Most Ordered.
-Time of Day Most Orders are Placed.
-Orders on Weekdays vs. Weekends.
-Count of Successful vs. Cancelled Orders and the Ratio.
-Delivery Partners with the Highest Delay Beyond Expected Delivery Time.
-City wise orders.
+- Total Revenue by Restaurants.
+- Top Five Dishes by Most Ordered.
+- Time of Day Most Orders are Placed.
+- Orders on Weekdays vs. Weekends.
+- Count of Successful vs. Cancelled Orders and the Ratio.
+- Delivery Partners with the Highest Delay Beyond Expected Delivery Time.
+- City wise orders.
